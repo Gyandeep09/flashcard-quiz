@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What keyword defines a function is Python?",
+    "answer": "def"
+  },
+  {
+    "question": "Which built-in returns the number of items in a list?",
+    "answer": "len"
+  },
+  {
+    "question": "Which pathlib class represents a file path?",
+    "answer": "Path"
+  },
+  {
+    "question": "Which git command uploads your commits to Github?",
+    "answer": "git push"
+  },
+  {
+    "question": "In Neovim, which key enters Insert mode?",
+    "answer": "i"
+  },
+  {
+    "question": "In Neovim, which command saves the current file?",
+    "answer": ":w"
+  }
+]

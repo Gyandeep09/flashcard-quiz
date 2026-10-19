@@ -1,0 +1,10 @@
+# One card per line: question :: answer
+# Lines starting with # are ignored.
+
+What keyword defines a function is Python? :: def
+Which built-in returns the number of items in a list? :: len
+Which pathlib class represents a file path? :: Path
+Which git command uploads your commits to Github? :: git push
+In Neovim, which key enters Insert mode? :: i
+In Neovim, which command saves the current file? :: :w
+
